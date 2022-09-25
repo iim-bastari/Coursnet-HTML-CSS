@@ -1,0 +1,145 @@
+.top-bar{
+    background-color: skyblue;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 30px 15px 30px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu-item{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.container {
+    width: 1300px;
+    margin: auto;
+   
+}
+
+.banner {
+    width: 100%;
+    max-height: 500px;
+    overflow-y: hidden;
+}
+
+.banner img{
+    width: 100%;
+}
+
+.kotak-artikel {
+    margin-top: -30px;
+}
+
+.kotak-artikel table td {
+    padding-top: -50px;
+}
+
+
+.kotak-artikel {
+    width: 100%;
+}
+
+
+.kotak-artikel-visimisi {
+    background-color: whitesmoke
+    height: 500px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+footer {
+    background-color: black;
+    padding: 50px;
+}
+
+footer p{
+    text-align: center;
+    color: white;
+}
+
+.kotak-artikel-visimisi ol li {
+    line-height: 30px;
+}
+
+
+.kotak-artikel-tentangkami h2 {
+    margin-top: -30px;
+}
+
+
+.kotak-artikel-tentangkami {
+    padding: 80px;
+    
+}
+
+.kotak-artikel-tentangkami p{
+    line-height: 30px;
+    text-align: justify;
+}
+
+.kotak-artikel-tentangkami ol li {
+    line-height: 30px;
+}
+
+
+
+.kotak-layanan h2 {
+    margin-top: -30px;
+}
+
+
+.kotak-layanan {
+    padding: 80px;
+    
+}
+
+.kotak-layanan p{
+    line-height: 30px;
+    text-align: justify;
+}
+
+.kotak-layanan ol li {
+    line-height: 30px;
+}
+
+
+.foto-layanan{
+    background-color: rgb(210, 255, 151)
+
+}
+.foto-layanan img {
+    border-radius: 20px;
+}
+
+
+.kontak-kami a {
+    color: blue;
+    
+}
+
+
+.kontak-kami p {
+    text-align: center;
+    
+}
+
+
+.kontak-kami h3 {
+    text-align: center;
+    
+}
+
+.pesan {
+    background-color: blanchedalmond;
+    padding: 40px;
+}
